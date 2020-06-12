@@ -1,7 +1,7 @@
 {
   "name": "hovering-expansion-image",
   "main": "./lib/index",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "A image will be expanded when the image is hovered. Default image size is small.",
   "keywords": [],
   "repository": "https://github.com/oniatsu/inkdrop-hovering-expansion-image",
