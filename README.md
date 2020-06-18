@@ -1,5 +1,5 @@
 # inkdrop-hovering-expansion-image
-This is a inkdrop plugin.
+This is a Inkdrop plugin.
 - A image will be expanded when the image is hovered.
 - Default image size is small.
 
